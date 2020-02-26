@@ -1,3 +1,6 @@
+# https://www.youtube.com/watch?v=AifDb8oG8Kc
+# https://github.com/vmtram/recognize-license-plate
+
 import io
 import os
 from google.cloud import vision_v1p3beta1 as vision
